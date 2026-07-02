@@ -7,10 +7,10 @@ This repository contains our team's solution for **Safe Click Hackathon 2.0**, o
 Develop an innovative technology solution to help reduce cybercrime and improve digital safety.
 
 ## 👥 Team
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Khuman Dhakad 
+- Rohit Patel
+- Nikhil Singh 
+- Mukesh Patidar
 
 ## 📅 Submission Deadline
 6 July 2026, 12:00 PM
